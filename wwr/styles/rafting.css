@@ -44,6 +44,10 @@
     float: right;
 }
 
+/*-----------Week 4 fix---------------*/
+.adventure_pictures {
+    display: inline flex;
+}
 
 
 /*-------------------------------------*/
