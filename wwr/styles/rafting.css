@@ -6,16 +6,16 @@
 }
 
 heading{
-    background-color: #FEFAE0;
+    background-color: var(--accent1-color);
     font-weight: 400;
 }
 body{
     font-family: "Roboto",sans-serif;
-    color: #FEFAE0;
+    color: var(--accent1-color);
     margin: auto;
 }
 header{
-    background-color: var(--primary-color);
+    background-color: var(--accent1-color);
     font-weight: 400;
     margin: 1rem auto;
     display: grid;
@@ -47,7 +47,7 @@ header nav li{
     margin-right: 20px;
 }
 header nav a{
-    color: #fff;
+    color: var(--accent2-color);
     text-decoration: none;
     transition: color 0.2s ease;
 }
