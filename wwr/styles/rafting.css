@@ -330,3 +330,7 @@ tr td {
     justify-content: center;
     background-color: #FEFAE0;
 }
+
+.staff-pictures img {
+    border-radius: 50%;
+}
