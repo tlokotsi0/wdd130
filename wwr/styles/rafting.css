@@ -335,4 +335,6 @@ tr td {
     display: flex;
     justify-content: center;
     background-color: #FEFAE0;
+    width: 200px;
+    height: auto;
 }
