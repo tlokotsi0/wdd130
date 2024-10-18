@@ -263,3 +263,76 @@ footer ul{
     flex-direction: row;
     align-items: center;
 }
+
+/* Working on the Contact.html file */
+
+.container {
+    width: 80%;
+    margin: 5% auto;
+}
+
+.contact-box {
+    background: #FEFAE0;
+    display: flex;
+}
+
+.contact-right {
+    flex-basis: 60%;
+    padding: 40px; 
+}
+
+.contact-left {
+    flex-basis: 40%;
+    padding: 30px 70px;
+}
+
+input {
+    width:100%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.input-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+label {
+    margin-bottom: 6px;
+    display:block;
+}
+
+button {
+    background: #283618;
+    width: 100px;
+    height: 35px;
+    border: none;
+    outline: none;
+    color:#E0A458;
+    border-radius: 30px;
+}
+
+tr td:first-child {
+    padding-right: 20px;
+
+}
+
+tr td {
+    padding: 10px;
+}
+
+.map {
+    padding: 5%;
+}
+
+#staff-pictures {
+    display: flex;
+    justify-content: center;
+    background-color: #FEFAE0;
+}
