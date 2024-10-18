@@ -228,13 +228,6 @@ footer{
     background-color: var(--accent2-color);
 }
 
-/*footer p {
-    position: relative;
-    top: 45%;
-    right: 40%;
-
-}*/
-
 footer ul{
     list-style: none;
     margin: 0px;
